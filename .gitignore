@@ -1,6 +1,7 @@
 
-*.cache
-exercism.exe
+*.exe
+*.dll
+*.pdb
 *.cache
 *.pdb
 *.dll
