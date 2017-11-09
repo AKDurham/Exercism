@@ -2,3 +2,10 @@
 *.cache
 exercism.exe
 *.cache
+*.pdb
+*.dll
+*.props
+bin/
+obj/
+.vs/
+packages/
